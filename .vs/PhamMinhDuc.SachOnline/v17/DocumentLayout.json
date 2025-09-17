@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\phamminhduc.sachonline\\views\\sachonline\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\views\\sachonline\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|d:\\hoc tap\\thuc hanh lap trinh web\\buoi 1\\phamminhduc.sachonline\\phamminhduc.sachonline\\views\\sachonline\\sachbannhieupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\views\\sachonline\\sachbannhieupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\phamminhduc.sachonline\\views\\sachonline\\chudepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\views\\sachonline\\chudepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\phamminhduc.sachonline\\controllers\\sachonlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\controllers\\sachonlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\phamminhduc.sachonline\\views\\sachonline\\nhaxuatbanpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\views\\sachonline\\nhaxuatbanpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\phamminhduc.sachonline\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\phamminhduc.sachonline\\views\\sachonline\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\views\\sachonline\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\phamminhduc.sachonline\\views\\sachonline\\navpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\views\\sachonline\\navpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\phamminhduc.sachonline\\views\\sachonline\\sliderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\views\\sachonline\\sliderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\phamminhduc.sachonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66818DE-6D17-4365-BE62-79ADA3DEC332}|PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline.csproj|solutionrelative:phamminhduc.sachonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChuDePartial.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\ChuDePartial.cshtml",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\ChuDePartial.cshtml",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\ChuDePartial.cshtml",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\ChuDePartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T08:42:06.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SachBanNhieuPartial.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\SachBanNhieuPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:15:22.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAE8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T07:43:21.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SachOnlineController.cs",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Controllers\\SachOnlineController.cs",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Controllers\\SachOnlineController.cs",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Controllers\\SachOnlineController.cs",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Controllers\\SachOnlineController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T07:41:10.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhaXuatBanPartial.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\NhaXuatBanPartial.cshtml",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\NhaXuatBanPartial.cshtml",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\NhaXuatBanPartial.cshtml",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\NhaXuatBanPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:34:16.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T07:16:38.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavPartial.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\NavPartial.cshtml",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\NavPartial.cshtml",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\NavPartial.cshtml",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\NavPartial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:30:02.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FooterPartial.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\FooterPartial.cshtml",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\FooterPartial.cshtml",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\FooterPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:35:53.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SliderPartial.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\SliderPartial.cshtml",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\SliderPartial.cshtml",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\SachOnline\\SliderPartial.cshtml",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Views\\SachOnline\\SliderPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:32:10.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PhamMinhDuc.SachOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\hoc tap\\Thuc hanh lap trinh web\\Buoi 1\\PhamMinhDuc.SachOnline\\PhamMinhDuc.SachOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PhamMinhDuc.SachOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T07:29:47.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
